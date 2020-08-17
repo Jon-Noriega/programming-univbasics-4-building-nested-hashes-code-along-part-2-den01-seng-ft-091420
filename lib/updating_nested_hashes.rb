@@ -45,6 +45,7 @@ def add_characters
          ]
       }
       }
+      
       end
       
       epic_tragedy[:additional_characters] = [
