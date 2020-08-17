@@ -20,6 +20,7 @@ def update_status
       }
    }
   epic_tragedy[:hero][:status] = "dead"
+  epic_tragedy[:heroine][:status] = "dead"
   epic_tragedy
 end
 
